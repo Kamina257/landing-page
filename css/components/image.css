@@ -1,0 +1,31 @@
+.image-head{
+  display: flex;
+
+
+
+}
+
+
+.timeline{
+  width: 240;
+  height: 260px;
+  border-radius: 19px;
+  display: block;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+.supreme{
+  width: 240;
+  height: 260px;
+  border-radius: 19px;
+  display: block;
+  margin: 20 auto;
+  align-items: center;
+  justify-content: center;
+
+
+}

@@ -1,0 +1,79 @@
+.search-container input[type="text"] {
+width: 30%;
+padding: 10px;
+font-size: 22px;
+font-family:'Sofia Sans Extra Condensed', sans-serif;
+border-radius: 50px 50px;
+border: none;
+}
+
+.search-container button[type="submit"] {
+  width: 4%;
+  padding: 15px;
+  background-color: none;
+  color: black;
+  border: none;
+  border-radius: 50px ;
+  font-size: 25px;
+  font-family:'Sofia Sans Extra Condensed', sans-serif;
+  cursor: pointer;
+}
+
+.contact {
+  font-family: 'Pacifico', cursive;
+  font-size: 18px
+}
+
+.twitter{
+  color:black;
+}
+
+.instagram{
+  color: black
+}
+
+
+
+
+
+}
+@media (max-width: 600px) {
+  .search-container {
+    width: 50%;
+  }
+}
+
+section form input,
+
+section form textarea {
+
+  width: 60%;
+
+  padding: 10px;
+
+  font-size: 13px;
+
+  margin-bottom: 20px
+
+  box-shadow :0 0 10px rgba(5,5,5,5);
+
+  border-radius: 80px
+
+}
+
+.send{
+  color: green
+
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.social-media a {
+  color: white;
+  font-size: 36px;
+  margin: 0 20px;
+}

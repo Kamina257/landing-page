@@ -1,0 +1,38 @@
+.header {
+  background-color: rgba(255,255,255,0.8);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  width: 100%;
+}
+
+.header h1 {
+  font-size: 80px;
+  font-family: 'Sassy Frass', cursive;
+  color: black;
+  text-shadow: 18px 18px 20px rgba(0,0,0,0.3);
+  text-align: center;
+}
+
+.header nav {
+  display: flex;
+  font-family: 'Pacifico', cursive;
+}
+
+
+.header nav a {
+  font-size: 18px;
+
+  color: black;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.description {
+  font-family:'Sofia Sans Extra Condensed', sans-serif;
+  font-size: 25px
+
+
+}
